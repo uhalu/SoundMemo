@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SoundMemo/static/css/main.7edff396.css",
+    "main.js": "/SoundMemo/static/js/main.90e4a8d7.js",
+    "index.html": "/SoundMemo/index.html",
+    "main.7edff396.css.map": "/SoundMemo/static/css/main.7edff396.css.map",
+    "main.90e4a8d7.js.map": "/SoundMemo/static/js/main.90e4a8d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edff396.css",
+    "static/js/main.90e4a8d7.js"
+  ]
+}
